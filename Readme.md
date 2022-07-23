@@ -1,4 +1,4 @@
-# Streamlit Tutorial 
+# Streamlit Cookie Tutorial 
 
 ## Corresponding Bilibili video
 
@@ -6,6 +6,7 @@ https://www.bilibili.com/video/BV1pr4y177rK/
 
 ## Example Code
 
+app.py:
 
 ```python
 import os
